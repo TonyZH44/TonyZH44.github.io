@@ -6,6 +6,8 @@ const RESOURCES = {
   "assets/AssetManifest.json": "5f08483a359c6d1212848ac287b3d0ea",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
+"assets/images/greek-building-with-four-pillars-black.png": "e0c237f10fbd598abbb8b2d5d00fec00",
+"assets/images/schoolOfAthens.webp": "c5c3a64df76096a10c7099be197beac3",
 "assets/NOTICES": "a9c5408b89f269a06b72c8cb4b4e46fc",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/packages/flutter_inappwebview/assets/t_rex_runner/t-rex.css": "5a8d0222407e388155d7d1395a75d5b9",
@@ -26,9 +28,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "54c732570f409f4c3136077e59b858ca",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "b76c5a0cd5f4cc8919ad55cca4633701",
-"/": "b76c5a0cd5f4cc8919ad55cca4633701",
-"main.dart.js": "b6af5f00da209d8ae1698295b83ec57a",
+"index.html": "7dab46a5a235afc7add9631fb7eff901",
+"/": "7dab46a5a235afc7add9631fb7eff901",
+"main.dart.js": "1f7fe2982c5e9ef4b3ba9285eac357fe",
 "manifest.json": "9ddb3f8e61df7b0e11d850043fadcdc5",
 "version.json": "733de884579897f3b19e16a7bb51e8e9"
 };
